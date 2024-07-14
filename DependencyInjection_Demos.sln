@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI.Basic", "DI.Basic\DI.Basic.csproj", "{F6730142-B27B-465A-B371-091082EF661B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF6D9047-2DD4-4CF7-BD42-3DF3352B8847}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\pavan\OneDrive\Desktop\Readme-DependencyInjection1.txt = C:\Users\pavan\OneDrive\Desktop\Readme-DependencyInjection1.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
