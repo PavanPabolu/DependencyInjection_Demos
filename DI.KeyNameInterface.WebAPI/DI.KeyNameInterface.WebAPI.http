@@ -1,0 +1,6 @@
+@DI.KeyNameInterface.WebAPI_HostAddress = http://localhost:5283
+
+GET {{DI.KeyNameInterface.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
