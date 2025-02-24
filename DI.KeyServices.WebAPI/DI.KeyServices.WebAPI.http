@@ -1,0 +1,7 @@
+@DI.KeyServices.WebAPI_HostAddress = http://localhost:5267
+###
+
+GET {{DI.KeyServices.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
